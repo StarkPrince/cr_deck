@@ -6,4 +6,4 @@
 - Sorted by winning percentage
 - Link to directly copy to your board
 
-![GitHub Light](https://github.com/StarkPrince/cr_deck/blob/master/public/CR_Deck_Builder.png)
+![GitHub Light](https://github.com/StarkPrince/cr_deck/blob/main/public/CR_Deck_Builder.png)
