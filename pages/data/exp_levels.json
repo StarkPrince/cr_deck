@@ -1,0 +1,127 @@
+[
+    {
+        "name": "1",
+        "exp_to_next_level": 20,
+        "summoner_level": 1,
+        "tower_level": 1,
+        "troop_level": 1,
+        "original_exp_to_next_level": 20
+    },
+    {
+        "name": "2",
+        "exp_to_next_level": 50,
+        "summoner_level": 2,
+        "tower_level": 2,
+        "troop_level": 2,
+        "original_exp_to_next_level": 50,
+        "level_up_chest": "LevelUpChest_KL2"
+    },
+    {
+        "name": "3",
+        "exp_to_next_level": 100,
+        "summoner_level": 3,
+        "tower_level": 3,
+        "troop_level": 3,
+        "original_exp_to_next_level": 100,
+        "level_up_chest": "LevelUpChest_KL3"
+    },
+    {
+        "name": "4",
+        "exp_to_next_level": 200,
+        "summoner_level": 4,
+        "tower_level": 4,
+        "troop_level": 4,
+        "original_exp_to_next_level": 200,
+        "level_up_chest": "LevelUpChest_KL4"
+    },
+    {
+        "name": "5",
+        "exp_to_next_level": 400,
+        "summoner_level": 5,
+        "tower_level": 5,
+        "troop_level": 5,
+        "original_exp_to_next_level": 400,
+        "level_up_chest": "LevelUpChest_KL5"
+    },
+    {
+        "name": "6",
+        "exp_to_next_level": 1000,
+        "summoner_level": 6,
+        "tower_level": 6,
+        "troop_level": 6,
+        "original_exp_to_next_level": 1000,
+        "level_up_chest": "LevelUpChest_KL6"
+    },
+    {
+        "name": "7",
+        "exp_to_next_level": 2000,
+        "summoner_level": 7,
+        "tower_level": 7,
+        "troop_level": 7,
+        "original_exp_to_next_level": 2000,
+        "level_up_chest": "LevelUpChest_KL7"
+    },
+    {
+        "name": "8",
+        "exp_to_next_level": 5000,
+        "summoner_level": 8,
+        "tower_level": 8,
+        "troop_level": 8,
+        "original_exp_to_next_level": 5000,
+        "level_up_chest": "LevelUpChest_KL8"
+    },
+    {
+        "name": "9",
+        "exp_to_next_level": 10000,
+        "summoner_level": 9,
+        "tower_level": 9,
+        "troop_level": 9,
+        "original_exp_to_next_level": 10000,
+        "level_up_chest": "LevelUpChest_KL9"
+    },
+    {
+        "name": "10",
+        "exp_to_next_level": 20000,
+        "summoner_level": 10,
+        "tower_level": 10,
+        "troop_level": 10,
+        "original_exp_to_next_level": 30000,
+        "level_up_chest": "LevelUpChest_KL10"
+    },
+    {
+        "name": "11",
+        "exp_to_next_level": 35000,
+        "summoner_level": 11,
+        "tower_level": 11,
+        "troop_level": 11,
+        "original_exp_to_next_level": 40000,
+        "level_up_chest": "LevelUpChest_KL11"
+    },
+    {
+        "name": "12",
+        "exp_to_next_level": 50000,
+        "summoner_level": 12,
+        "tower_level": 12,
+        "troop_level": 12,
+        "original_exp_to_next_level": 80000,
+        "level_up_chest": "LevelUpChest_KL12"
+    },
+    {
+        "name": "13",
+        "exp_to_next_level": 80000,
+        "summoner_level": 13,
+        "tower_level": 13,
+        "troop_level": 13,
+        "original_exp_to_next_level": 100000,
+        "level_up_chest": "LevelUpChest_KL13"
+    },
+    {
+        "name": "14",
+        "exp_to_next_level": 100000,
+        "summoner_level": 14,
+        "tower_level": 14,
+        "troop_level": 14,
+        "original_exp_to_next_level": 0,
+        "level_up_chest": "LevelUpChest_KL14"
+    }
+]
